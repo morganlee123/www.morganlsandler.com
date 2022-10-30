@@ -2,7 +2,7 @@
 # Astatine (see https://github.com/hugcis/hugo-astatine-theme).
 #
 # The URL from which the site will be served
-baseurl = "http://morganlsandler.com"
+baseurl = "https://morganlsandler.com"
 # Language used
 languageCode = "en-us"
 # Website title
