@@ -36,11 +36,11 @@ publications:
 
 I am a master's student in the [Integrated Pattern Recognition and Biometrics Laboratory](https://iprobe.cse.msu.edu) (iPRoBe) located at Michigan State University. I am under the supervision of [Dr. Arun Ross](https://rossarun.wixsite.com/arun-ross). My latest resume can be downloaded [here](/resume/morgansandlerresume.pdf). Feel free to contact me via [email](mailto:sandle20@msu.edu).
 # Research Interests
-Emotion Analysis in Speech, Machine Translation, Astrophysics, Severe Weather Analysis
+Speech and Signal Processing, Speaker Recognition, Biometrics, Machine Learning
 # Technical Skills
-Python (5 years exp.), SQL (2 years exp.), TensorFlow (1 year exp.), PyTorch (1 year exp.), C++ (3 years exp.), Research, Scientific Writing 
+Python (5 years exp.), SQL (2 years exp.), TensorFlow (3 years exp.), PyTorch (3 years exp.), Scikit-Learn (3 years exp.), C++ (3 years exp.), Research, Scientific Writing 
 # News
- - Presenting latest research at 2nd Data Science Student Conference (To Appear), November 2022
+ - Poster presentation @ 2nd Data Science Student Conference, November 2022
  - Poster presentation @ MSU Graduate Engineering Research Symposium, August 2022 
  - Poster presentation @ MID-SURE Undergraduate Research Symposium, July 2021
 # Highlighted Experiences ([Full Resume](/resume/morgansandlerresume.pdf))
